@@ -1,0 +1,12 @@
+nav,footer{
+    background: aqua;
+    color: blueviolet;
+}
+
+.col-left {
+    background: greenyellow;
+}
+
+.col-right {
+    background: rgb(235, 96, 230);
+}
